@@ -1,0 +1,25 @@
+# Qt / qmake generated files
+Makefile
+Makefile.*
+.qmake.stash
+.qtc_clangd/
+*.pro.user*
+
+# Build outputs
+build*/
+debug/
+release/
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+
+# Runtime state generated beside the executable
+*_flags.json
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
